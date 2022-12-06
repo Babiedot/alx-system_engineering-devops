@@ -1,0 +1,2 @@
+#!/bipasswd
+grep root /etc/passwd
